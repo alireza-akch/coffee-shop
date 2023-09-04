@@ -913,6 +913,15 @@ textarea {
 .filtr-container{
     direction: ltr;
 }
+.about{
+    text-align: center;
+}
+.gallery p{
+    text-align: right;
+}
+.gallery h2{
+    text-align: right;
+}
 
 
 
