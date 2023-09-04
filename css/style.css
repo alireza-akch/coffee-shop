@@ -286,6 +286,8 @@ button:active,
     border: none;
 }
 
+
+
 /*------------ scroll down -------------*/
 .scrolldown {
     position: absolute;
@@ -904,6 +906,17 @@ textarea {
     width: 6rem;
     height: 6rem;
 }
+
+
+
+/* mine costumized styles */
+.filtr-container{
+    direction: ltr;
+}
+
+
+
+
 
 @-webkit-keyframes load {
     0% {
