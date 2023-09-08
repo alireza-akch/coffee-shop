@@ -909,19 +909,65 @@ textarea {
 
 
 
-/* mine costumized styles */
-.filtr-container{
+/* mine customized styles */
+.filtr-container {
     direction: ltr;
 }
-.about{
+
+.about {
     text-align: center;
 }
-.gallery p{
+
+.gallery p {
     text-align: right;
 }
-.gallery h2{
+
+.gallery h2 {
     text-align: right;
 }
+
+
+/* fonts */
+* {
+    font-family: vazir-m;
+}
+
+/* h1, h2, h3, h4, h5, h6{
+    font-family: shams;
+} */
+h1 {
+    color:#c60a30;
+}
+.heading-primary{
+    font-family: b-ziba;
+    font-weight: bolder;
+}
+#heading{
+    font-family: b-ziba;
+    font-size: 32pt;
+    color: #f00202;
+}
+
+
+
+/* mine customized fonts */
+@font-face {
+    font-family: b-ziba;
+    src: url(../fonts/font-farsi/B-Ziba/B\ Ziba_0.ttf);
+}
+
+@font-face {
+    font-family: shams;
+    src: url(../fonts/font-farsi/Shams/Shams.ttf);
+}
+
+@font-face {
+    font-family: vazir-m;
+    src: url(../fonts/font-farsi/vazir-font-v16.1.0/Vazir-Medium.ttf);
+}
+
+
+
 
 
 
